@@ -1,4 +1,4 @@
-|	Artifact	|	Create	|	Read	|	Update	|	Delete	|	List	|	Rename	|	Activate - Deactivate	|	Copy - Paste - Duplicate	|	Import Inside	|
+|	Artifact | Create | Read | Update | Delete | List | Rename | Activate - Deactivate | Copy - Paste - Duplicate | Import Inside |
 | --- | ---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|
 |	Action Project	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|
 |	Alert	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	N/A	|
