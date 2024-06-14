@@ -1,5 +1,5 @@
 |	Artifact	|	Create	|	Read	|	Update	|	Delete	|	List	|	Rename	|	Activate / Deactivate	|	Copy / Paste / Duplicate	|	Import Inside	|
-------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	
+---	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|
 |	Action Project	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|
 |	Alert	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	N/A	|
 |	Application	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Partly (Excel files only)	|
@@ -13,4 +13,3 @@
 |	Project Launcher	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Only Copy / Paste	|	N/A	|
 |	User Task	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	N/A	|
 |	Visibility Scenario	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	No	|	No	|	N/A	|
-------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------	------------
