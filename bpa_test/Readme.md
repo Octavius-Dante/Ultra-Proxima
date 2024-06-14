@@ -13,3 +13,10 @@
 |	Project Launcher	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Only Copy / Paste	|	N/A	|
 |	User Task	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	N/A	|
 |	Visibility Scenario	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	Yes	|	No	|	No	|	N/A	|
+
+
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
