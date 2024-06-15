@@ -1,6 +1,5 @@
 
 
-| Artifact | Create | Read | Update | Delete | List | Rename | Activate / Deactivate | Copy / Paste / Duplicate | Import Inside |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+SAP academy learning blog is archived as offlien htmla file in winrar and zip file 
 
-
+download and extract and navigate through the tutorials
