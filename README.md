@@ -21,4 +21,4 @@ SAP Build Code - SAP developers Blog
 ------------------------
 
 
-SAP BTP Cloud Workflow - Business rules service  - its not available in trial BTP account now in 2024 
+SAP BTP Cloud Workflow - Business rules service  - its not available in trial BTP account now in 2024 - may be available in proper Cloud subscription enterprise account 
