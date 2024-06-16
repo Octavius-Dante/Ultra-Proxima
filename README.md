@@ -3,7 +3,7 @@
 ------------------------
 
 
-SAP Build Process Automation  -  SAP developers Blog - 90 Tutorials 
+SAP Build Process Automation  -  SAP developers Blog - 90 Tutorials + SAP help page 600 Topic PDF document 
 
 SAP RAP  - 380 $ - Worth Buying All the time 
 
