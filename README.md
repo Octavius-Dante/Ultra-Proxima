@@ -5,7 +5,7 @@
 
 SAP Build Process Automation  -  114$ - ZAPYARD, SAP developers Blog - 90 Tutorials + SAP help page 600 Topic PDF document 
 
-SAP RAP  - 380 $ - Anubahv trainings Worth Buying All the time 
+SAP RAP  - 380 $ - Anubhav trainings Worth Buying All the time 
 
 CDS + AMDP - SAP codes - Free 
 
