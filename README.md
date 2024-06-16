@@ -21,4 +21,4 @@ SAP Build Code
 ------------------------
 
 
-SAP BTP Cloud Workflow - Business rules service  - 250 $ - Wait and decide - its not available in BTP 
+SAP BTP Cloud Workflow - Business rules service  - its not available in trial BTP account now in 2024 
