@@ -13,9 +13,9 @@ CDS + AMDP - SAP codes - Free
 ------------------------
 
 
-SAP Build App  - SAP developers Blog
+SAP Build App  - SAP developers Blog <<<< Future Ai for mobile based fiori app for business 
 
-SAP Build Code - SAP developers Blog
+SAP Build Code - SAP developers Blog <<<< Future Ai for quick fiori app for business 
 
 
 ------------------------
